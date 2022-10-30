@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="nop Suite">
+<parameter name= "browser" value="firefox"></parameter> 
+  <test name="Test">
+    <classes>
+      <class name="tests.UserRegistrationTest"/>
+    </classes>
+  </test> 
+</suite>
